@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64139387668",
+    "project_id": "flutter-5e487",
+    "storage_bucket": "flutter-5e487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64139387668:android:c2521621285510c39ad801",
+        "android_client_info": {
+          "package_name": "com.example.toonflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64139387668-325ush9jccckivgqejiisp5r1n5ud77u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOFjN6YpoX11FwCMtwMGPCCX6mLu_GDDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64139387668-325ush9jccckivgqejiisp5r1n5ud77u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
